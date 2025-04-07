@@ -3,5 +3,5 @@ function adult(arr){
     .map(person=>person.name);
 };
 
-st=[{name:"ram", age: 45, gender:"male"},{name:"green",age:12,gender:"female"}];
-console.log(adult(st));
+rr=[{name:"ram", age: 45, gender:"male"},{name:"green",age:12,gender:"female"}];
+console.log(adult(rr));
