@@ -9,3 +9,5 @@ function sumofn(n){
    
 
 console.log(sumofn(12));
+
+//you are amazing!
